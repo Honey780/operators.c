@@ -1,0 +1,13 @@
+// Online C compiler to run C program online
+#include <stdio.h>
+int main() {
+   int a= 21, b=5, c;
+  c = a%b;
+    printf("a%5 is %d",c);
+  return 0;
+}
+
+
+
+a%5 is 1
+=== Code Execution Successful ===
